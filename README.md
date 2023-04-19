@@ -1,4 +1,6 @@
 # Auto-Arena-Bot
+DOWNLOAD THE .ZIP
+
 This program was made by Bongo#1338
 All updated to this program will be posted in the #updates channel in https://discord.gg/gUMCATR2
 If you would like a customized version of the bot DM me on discord.
